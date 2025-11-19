@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+/local.properties
+/.idea
+*.iml
+
+# Android Studio
+captures/
+.externalNativeBuild
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google services - DO NOT push your google-services.json
+**/google-services.json
+
+# Log files
+*.log
+
+# Misc
+.DS_Store
+*.apk
+*.ap_
